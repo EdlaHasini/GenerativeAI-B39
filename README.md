@@ -6,3 +6,4 @@
 5.[https://github.com/EdlaHasini/GenerativeAI-B39/blob/main/Assignment5.ipynb]
 6.
 7.[https://github.com/EdlaHasini/GenerativeAI-B39/blob/main/Assignment7.ipynb]
+8.[https://github.com/EdlaHasini/GenerativeAI-B39/blob/main/Assignment8.ipynb]
